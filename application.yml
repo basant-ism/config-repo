@@ -1,4 +1,4 @@
 my:
-  greeting: "HEllo World"
+  greeting: "HEllo World from config server"
 second:
  great: "yes great"
