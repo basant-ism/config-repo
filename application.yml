@@ -2,3 +2,5 @@ my:
   greeting: "HEllo World from config server"
 second:
  great: "yes great"
+third:
+    tag: "From git hub"
