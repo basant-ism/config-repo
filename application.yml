@@ -1,5 +1,5 @@
 my:
-  greeting: "HEllo World from config server"
+  greeting: "Hello World!, from features branch config server"
 second:
  great: "yes great"
 third:
