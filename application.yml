@@ -4,3 +4,5 @@ second:
  great: "yes great"
 third:
     tag: "From git hub"
+uat:
+  cms: "FROM master"
